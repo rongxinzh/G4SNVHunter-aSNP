@@ -1,6 +1,7 @@
 
 library(G4SNVHunter)
 library(BSgenome.Hsapiens.UCSC.hg38)
+library(ggplot2)
 library(data.table)
 library(dplyr)
 library(GenomicRanges)
