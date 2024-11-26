@@ -1,4 +1,6 @@
----
+### A Case Study on the Usage of the G4SNVHunter Package
+
+***
 
 This repository contains example usage code used in our G4SNVHunter 
 manuscript (being submitted) to showcase the functionality 
@@ -7,8 +9,11 @@ which includes analysis code for the archaic SNPs identified by
 [Yermakovich et al](https://www.pnas.org/doi/10.1073/pnas.2405889121).
 
 aSNP-casestudy.R: Script for case study using G4SNVHunter.
+
 aSNP_Aut.txt: Autosomal archaic SNPs (aSNPs) in the 
 Papua New Guinea population.
+
+***
 
 For more detailed usage of our package, please refer to the **[vignette (
 https://rongxinzh.github.io/G4SNVHunter/G4SNVHunter.html)](
