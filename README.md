@@ -16,10 +16,12 @@ Papua New Guinea population.
 ***
 
 For more detailed usage of our package, please refer to the **[vignette (
-https://rongxinzh.github.io/G4SNVHunter/G4SNVHunter.html)](
-https://rongxinzh.github.io/G4SNVHunter/G4SNVHunter.html)** of
+https://bioconductor.org/packages/devel/bioc/vignettes/G4SNVHunter/inst/doc/G4SNVHunter.html)](
+https://bioconductor.org/packages/devel/bioc/vignettes/G4SNVHunter/inst/doc/G4SNVHunter.html)** of
 the G4SNVHunter package.
 
 The source code for the G4SNVHunter package can be found in 
 this **[repository (https://github.com/rongxinzh/G4SNVHunter)](
-https://github.com/rongxinzh/G4SNVHunter)**.
+https://github.com/rongxinzh/G4SNVHunter)** or 
+**[Bioconductor landing page (https://bioconductor.org/packages/G4SNVHunter)](
+https://bioconductor.org/packages/G4SNVHunter)**.
